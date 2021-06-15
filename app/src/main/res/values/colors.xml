@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#25252F</color>
+    <color name="colorPrimaryDark">#25252F</color>
+    <color name="colorAccent">#40C3FE</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#1E1D23</color>
+
+    <color name="chart_background">#FFFFFF</color>
+
+    <!-- Dashboard color -->
+    <color name="dashboard_graph_line_color">#AA38B1</color>
+    <color name="dashboard_graph_y_text_color">#818085</color>
+    <color name="dashboard_graph_x_text_color">#7E7D82</color>
+    <color name="dashboard_graph_point_color">#FFFDFF</color>
+    <color name="dashboard_graph_point_shading_color">#25252F</color>
+    <color name="dashboard_graph_greed_color">#3A3A44</color>
+
+    <color name="dashboard_tabs_text_color">#ACACAC</color>
+    <color name="dashboard_tabs_line_color">#FFFFFF</color>
+    <color name="transparent">#000000</color>
+    <color name="tab_highlight">#FFFFFF</color>
+
+    <color name="dashboard_balance_value_color">#3EA3AB</color>
+    <color name="dashboard_balance_header_color">#FF018786</color>
+    <color name="dashboard_incoming_header_color">#CCD2D8</color>
+    <color name="dashboard_incoming_value_color">#98C360</color>
+    <color name="dashboard_line_color">#3A3A44</color>
+    <color name="dashboard_outgoing_header_color">#FF3700B3</color>
+    <color name="dashboard_outgoing_value_color">#6DA9C5</color>
+    <color name="dashboard_round_text_color">#FF000000</color>
+    <color name="dashboard_button_color">#4F79C3</color>
+    <color name="dashboard_update_button_color">#80CBC4</color>
+
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
